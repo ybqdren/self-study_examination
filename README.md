@@ -7,7 +7,7 @@
 
 ## 一、专业简介
 
-专业名称：080901 计算机科学与技术专业（本科阶段） 
+专业名称：080901 计算机科学与技术专业（专升本） 
 主考学校：重庆理工大学
 
 ![](https://cdn.nlark.com/yuque/0/2021/png/12543709/1622714152372-0134f7c3-701f-4d78-9a36-8b5c5de0c0cd.png?x-oss-process=image%2Fresize%2Cw_1416)
@@ -59,7 +59,7 @@
 
 资料及历年真题均来自网络。需要注意的是操作系统、计算机网络原理等课程（详见教材），最近一次教材更新是在 2018年。因此，在此之后，考试重点可能与之前不同。建议不要迷信历年真题  
 
-关于教材，可以在 [力源图书](https://liyuants.tmall.com/p/rd057697.htm) 购买。
+关于教材，可以在 [重庆招考](https://shop70926379.taobao.com/) 购买。
 
 <br />
 <br />
@@ -108,4 +108,4 @@ http://zk.cqksy.cn/zkPage/index
 
 
 
-![](README.assets/wechat.jpg)
+![](README.assets/wechat.png)
