@@ -108,4 +108,4 @@ http://zk.cqksy.cn/zkPage/index
 
 
 
-<img src="README.assets/wechat.jpg" style="zoom: 67%;" />
+![](README.assets/wechat.jpg)
